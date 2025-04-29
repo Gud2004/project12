@@ -7,6 +7,10 @@ to understand and answer queries based on document context.
 
 ---
 
+
+
+
+
 ## 🚀 Features
 
 - 🧠 Ask questions about the content of one or more PDF files
