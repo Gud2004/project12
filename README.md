@@ -32,7 +32,7 @@ to understand and answer queries based on document context.
 ---
 
 **Step-1 Clone the repository**
- git clone https://github.com/yourusername/pdf-chatbot.git
+ git clone- https://github.com/Gud2004/project12
  cd pdf-chatbot
 
 **Step-2-Create & Activate a Virtual Environment**
