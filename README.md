@@ -7,7 +7,8 @@ to understand and answer queries based on document context.
 
 ---
 
-**Demo Link**
+## 🚀 Demo Link
+
 Check out the live demo of this project [here](https://project12-kb6vo5segdv7mecna9rsvm.streamlit.app/)
 
 
