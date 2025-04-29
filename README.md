@@ -34,13 +34,13 @@ Check out the live demo of this project [here](https://project12-kb6vo5segdv7mec
 | **Environment** | Python, .env, tempfile, os        |
 
 ---
+**🚀 Setup Instructions**
 
-**Step-1 Clone the repository**
+**Step 1 – Clone the Repository**
  git clone https://github.com/Gud2004/project12.git
  cd project12
 
-
-**Step-2-Create & Activate a Virtual Environment**
+**Step 2 – Create & Activate a Virtual Environment**
 - For Windows:
      python -m venv venv
      venv\Scripts\activate
@@ -49,17 +49,20 @@ Check out the live demo of this project [here](https://project12-kb6vo5segdv7mec
      python3 -m venv venv
      source venv/bin/activate
 
-**Step-3-Install Dependencies**
+**Step 3 – Install Dependencies**
   pip install -r requirements.txt
  
-
-**Step-4-  Set Up Environment Variables**
+**Step 4 – Set Up Environment Variables**
    GOOGLE_API_KEY=your_google_api_key
-   GROQ_API_KEY=your_groq_api_key
-   
+   GROQ_API_KEY=your_groq_api_key   
 
- **Step-6- Run the Application**
+ **Step 5 – Run the Application**
    streamlit run app.py
+   
+ ---
+ **✍️ Author:** Sanskriti Gupta 
+
+   
   
 
 
